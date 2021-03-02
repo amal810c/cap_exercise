@@ -1,0 +1,16 @@
+section {
+  width: 200px;
+}
+
+.g_to_interact_with {
+  fill: transparent;
+  cursor: pointer;
+}
+
+#shadow_copy_Image {
+  pointer-events: none;
+}
+
+path {
+  stroke-width: 2;
+}
